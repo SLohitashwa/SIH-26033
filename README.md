@@ -90,31 +90,9 @@ Backend: Python with Django framework for server-side operations and application
 
 Database: SQLite for the initial prototype and PostgreSQL for future scalability.
 
-AI and Machine Learning: Python-based tools for regional-language voice assistance, demand forecasting and fair-price suggestions.
+FlowChart:
 
-2. Methodology and Process for Implementation
-
-HARVEXA will be developed through the following steps:
-
-At first ,Farmers, consumers, bulk buyers and village representatives register and log in through their respective accounts.
-
-Farmers enter product details manually or use the regional-language voice assistant. The details are confirmed before publishing.
-
-Consumers search for nearby agricultural products, compare prices and place orders.
-
-The system receives orders and notifies the respective farmers.
-
-The AI module analyses available sales and seasonal data to estimate demand and suggest suitable prices.
-
-Buyers complete payments through the integrated payment gateway, with farmer settlements handled through the supported payment system.
-
-Nearby orders are grouped for transportation and delivered through local transport or delivery partners.
-
-Buyers provide feedback, while farmers track orders, sales and earnings through their dashboards.
-
-Prototype Development Plan:
-
-The initial working prototype will be developed as a Django-based web application with farmer and consumer registration, product listing, product search, order placement and basic order management. AI voice assistance, demand forecasting, payment gateway integration and logistics optimization will be added in later development stages. This phased approach makes the project practical to develop, test and improve.
+![alt text](image.png)
 
 ## Feasibility and Viability
 1. Analysis of the Feasibility of the Idea
